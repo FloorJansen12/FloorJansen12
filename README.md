@@ -5,6 +5,7 @@ I’m a Software Engineering student at Escuela Politécnica Nacional, passionat
 
 ### 🔥 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FloorJansen12&theme=shadow-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FloorJansen12)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloorJansen12)](https://github.com/FloorJansen12/github-readme-stats)
